@@ -1,4 +1,4 @@
-# 50 Desafios em Python
+# 50 Desafios com resolução em Python
 
 Minhas soluções aos desafios diários propostos por Adriano Vieira ao longo de 50 dias.
 
