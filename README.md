@@ -12,3 +12,7 @@ Minhas soluções aos desafios diários propostos por Adriano Vieira ao longo de
 
 5. Faça um programa que receba um número inteiro positivo N e calcule o somatório de 1 até N. Imprima na tela o resultado da soma. <b><a href="https://github.com/brunoesm07/desafio-50dias-python/blob/main/Desafio%205.py"> Python</a></b>
 
+6. Faça um programa que receba o valor dos catetos de um triângulo retângulo e imprima na tela o valor da hipotenusa. 
+</br>Lembrando que: h² = a² + b² | h -> hipotenusa | a e b -> catetos
+
+7. Faça um programa que leia o peso e a altura de uma pessoa e calcule o IMC dela, imprimindo o valor calculado e em qual faixa essa pessoa se encontra. Lembrando que: IMC = peso / altura | IMC < 18.5 -> Magreza | 18.5 <= IMC < 25 -> Normal | 25 <= IMC < 30 -> Sobrepeso | 30 <= IMC < 40 -> Obesidade | 40 <= IMC -> Obesidade Grave
