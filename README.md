@@ -1,5 +1,7 @@
 # 50 Desafios com resolução em Python e JavaScript
 
+![Badge Status](https://img.shields.io/static/v1?label=status&message=em%20desenvolvimento&color=yellow)
+
 Minhas soluções aos desafios diários propostos por Adriano Vieira ao longo de 50 dias.
 
 1. Faça um programa que calcule a diferença entre o preço de um produto e o valor em dinheiro pago, imprimindo para o usuário o quanto será o troco. <b><a href="https://github.com/brunoesm07/desafio-50dias-python/blob/main/Desafio%201.py">Python</a></b> | <b><a href="https://github.com/brunoesm07/desafio-50dias/blob/main/Desafio%201.js">Javascript</a></b> 
