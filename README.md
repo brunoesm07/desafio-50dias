@@ -4,7 +4,7 @@
 
 Minhas soluções aos desafios diários propostos por <a href="https://www.linkedin.com/in/adrianocvieira/">Adriano Vieira</a> ao longo de 50 dias.
 
-1. Faça um programa que calcule a diferença entre o preço de um produto e o valor em dinheiro pago, imprimindo para o usuário o quanto será o troco. <b><a href="https://github.com/brunoesm07/desafio-50dias-python/blob/main/Desafio%201.py">Python</a></b> | <b><a href="https://github.com/brunoesm07/desafio-50dias/blob/main/Desafio%201.js">Javascript</a></b> 
+1. Faça um programa que calcule a diferença entre o preço de um produto e o valor em dinheiro pago, imprimindo para o usuário o quanto será o troco. <b><a href="https://github.com/brunoesm07/desafio-50dias-python/blob/main/Desafio%201.py">Python</a></b> | <b><a href="https://github.com/brunoesm07/desafio-50dias/blob/main/Resoluções_Python/Desafio%201.js">Javascript</a></b> 
 
 2. Faça um programa que leia três valores inteiros e imprima o maior e o menor deles <b><a href="https://github.com/brunoesm07/desafio-50dias-python/blob/main/Desafio%202.py"> Python</a></b>  | <b><a href="https://github.com/brunoesm07/desafio-50dias/blob/main/Desafio%202.js">Javascript</a></b> 
 
