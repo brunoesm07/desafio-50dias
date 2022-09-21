@@ -6,7 +6,7 @@ Minhas soluções aos desafios diários propostos por <a href="https://www.linke
 
 1. Faça um programa que calcule a diferença entre o preço de um produto e o valor em dinheiro pago, imprimindo para o usuário o quanto será o troco. <b><a href="https://github.com/brunoesm07/desafio-50dias/blob/main/Resolu%C3%A7%C3%B5es_Python/Desafio%201.py">Python</a></b> | <b><a href="">Javascript</a></b> 
 
-2. Faça um programa que leia três valores inteiros e imprima o maior e o menor deles <b><a href="https://github.com/brunoesm07/desafio-50dias/blob/main/Resolu%C3%A7%C3%B5es_Python/Desafio%202.py"> Python</a></b>  | <b><a href="https://github.com/brunoesm07/desafio-50dias/blob/main/Resoluções_Python/Desafio%202.js">Javascript</a></b> 
+2. Faça um programa que leia três valores inteiros e imprima o maior e o menor deles <b><a href="https://github.com/brunoesm07/desafio-50dias/blob/main/Resolu%C3%A7%C3%B5es_Python/Desafio%202.py"> Python</a></b>  | <b><a href="https://github.com/brunoesm07/desafio-50dias/blob/main/Desafio%202.js">Javascript</a></b> 
 
 3. Crie um programa que receba 4 notas de um aluno, uma de cada bimestre, e calcule a media final. Imprima a média final e se o aluno foi aprovado ou reprovado, considerando que a média para aprovação seja igual ou superior a seis. <b><a href="https://github.com/brunoesm07/desafio-50dias-python/blob/main/Resoluções_Python/Desafio%203.py"> Python</a></b>
 
