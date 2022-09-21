@@ -1,4 +1,4 @@
-# 50 Desafios com resolução em Python e JavaScript
+# 50 Desafios com resoluções em Python e JavaScript
 
 ![Badge Status](https://img.shields.io/static/v1?label=status&message=em%20desenvolvimento&color=yellow)
 
